@@ -14,7 +14,4 @@ A Python project that fetches weather data from OpenWeatherMap API, displays it,
 2. Replace API_KEY in the script
 3. Run: `python simple_weather_dashboard.py`
 
-## Files
-- `simple_weather_dashboard.py` - Basic version (recommended for beginners)
-- `weather_dashboard.py` - Advanced version with more features
-- `TUTORIAL.md` - Detailed tutorial and explanation
+
